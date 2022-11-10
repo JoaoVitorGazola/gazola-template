@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'gazola-template';
+  title = 'gazola-template'; // TODO: Altere para o titulo do seu projeto
 }
